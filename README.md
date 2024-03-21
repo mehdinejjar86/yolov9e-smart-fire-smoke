@@ -1,1 +1,1 @@
-# yolov9e-smart-fire-smoke
+# YOLOv9-E: Smart Fire and Smoke

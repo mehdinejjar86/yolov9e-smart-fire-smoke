@@ -23,7 +23,7 @@ python remove_pseudo_class.py train/labels valid/labels test/labels
 ```
 Please note that the paths should be relative to the script file.
 
-## Inference Using Weight
+## Inference Using Weights
 
 We should clone [YOLOv9 repository]([enviroment](https://github.com/WongKinYiu/yolov9)).
 

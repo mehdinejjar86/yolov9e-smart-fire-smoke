@@ -8,13 +8,13 @@ The datasets used for this project are [Smart Fire and Smoke](https://universe.r
 
 ## Available Weights
 
-YOLOv9-E Trained on Fire, Smoke, and Pseudo classes with grayscale images (to mimic the infrared light conditions). (FSO)
+YOLOv9-E Trained on Fire, Smoke, and Pseudo classes with grayscale images (to mimic the infrared light conditions). ([FSO](https://github.com/mehdinejjar86/yolov9e-smart-fire-smoke/releases/download/v0.1/fso.pt))
 
-YOLOv9-E Trained on Fire, and Smoke classes with grayscale images (to mimic the infrared light conditions). (FS)
+YOLOv9-E Trained on Fire, and Smoke classes with grayscale images (to mimic the infrared light conditions). ([FS](https://github.com/mehdinejjar86/yolov9e-smart-fire-smoke/releases/download/v0.1/fs.pt))
 
-YOLOv9-E Trained on Fire, Smoke, and Pseudo classes without grayscale images. (FSO$`w/o`$)
+YOLOv9-E Trained on Fire, Smoke, and Pseudo classes without grayscale images. ([FSO$`w/o`$](https://github.com/mehdinejjar86/yolov9e-smart-fire-smoke/releases/download/v0.1/fsowo.pt))
 
-YOLOv9-E Trained on Fire and Smoke classes without grayscale images. (FS$`w/o`$)
+YOLOv9-E Trained on Fire and Smoke classes without grayscale images. ([FS$`w/o`$](https://github.com/mehdinejjar86/yolov9e-smart-fire-smoke/releases/download/v0.1/fswo.pt))
 
 
 To easily remove the Pseudo class from the dataset, use the following command

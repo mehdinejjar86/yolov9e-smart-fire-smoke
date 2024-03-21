@@ -13,9 +13,10 @@ YOLOv9-E Trained on Fire, Smoke, and Pseudo classes without grayscale images.
 YOLOv9-E Trained on Fire and Smoke classes without grayscale images.
 
 to easily remove the pseudo class from the dataset, using the following command
+```bash
 
-`remove_pseudo_class.py train/labels valid/labels test/labels` 
-
+remove_pseudo_class.py train/labels valid/labels test/labels
+```
 Please note that the paths should be relative to the script file.
 
 

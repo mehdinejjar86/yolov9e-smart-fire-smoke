@@ -12,7 +12,7 @@ YOLOv9-E Trained on Fire, Smoke, and Pseudo classes with grayscale images (to mi
 
 YOLOv9-E Trained on Fire, and Smoke classes with grayscale images (to mimic the infrared light conditions). ([FS](https://github.com/mehdinejjar86/yolov9e-smart-fire-smoke/releases/download/v0.1/fs.pt))
 
-YOLOv9-E Trained on Fire, Smoke, and Pseudo classes without grayscale images. FSO$`w/o`$ ([FSO$`w/o`$](https://github.com/mehdinejjar86/yolov9e-smart-fire-smoke/releases/download/v0.1/fsowo.pt))
+YOLOv9-E Trained on Fire, Smoke, and Pseudo classes without grayscale images. ([FSO$`w/o`$](https://github.com/mehdinejjar86/yolov9e-smart-fire-smoke/releases/download/v0.1/fsowo.pt))
 
 YOLOv9-E Trained on Fire and Smoke classes without grayscale images. ([FS$`w/o`$](https://github.com/mehdinejjar86/yolov9e-smart-fire-smoke/releases/download/v0.1/fswo.pt))
 

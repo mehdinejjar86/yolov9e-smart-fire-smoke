@@ -37,5 +37,5 @@ After that, we should specify the weight (one of the provided weights or a fine-
 
 ```bash
 # inference yolov9 models
-# python detect_dual.py --source 'path_to_images' --img 640 --device 0 --weights 'path_to_weight' --name specify_name_of_detection
+python detect_dual.py --source 'path_to_images' --img 640 --device 0 --weights 'path_to_weight' --name specify_name_of_detection
 ```
